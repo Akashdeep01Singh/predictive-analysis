@@ -1,0 +1,5 @@
+product_code,supplier_desc,component_id,cost
+112,abc,1002,1000
+114,xyz,1002,2500
+116,xyz,1002,500
+117,abc,1002,2000
